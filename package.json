@@ -1,5 +1,6 @@
 {
   "name": "deploy-react-app",
+  "homepage": "https://yourusername.github.io/deploy-reactjs-app-to-github-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
